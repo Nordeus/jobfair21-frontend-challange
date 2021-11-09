@@ -31,7 +31,7 @@ All resources needed for the UI can be found in the folder: **Assets/Resources**
 
 <h4>Submitting results:</h4>
 
-- You should send an e-mail to jobfair21-frontend-challenge@nordeus.com with a link to the forked Github project
+- You should send an e-mail to jobfair@nordeus.com with a link to the forked Github project
 - We will go through git history to review your changes and evaluate code
 - We will play the game to make sure all the functionalities are there
 
